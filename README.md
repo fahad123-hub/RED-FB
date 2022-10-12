@@ -57,7 +57,7 @@ $ pip install cpython
 $ pip install cython 
 $ pip install mechanize
 $ pip install requests
-$ git clone https://github.com/fahad123/RED-FB
+$ git clone https://github.com/fahad123-hub/RED-FB
 $ cd RED-FB
 $ ls
 $ git pull
