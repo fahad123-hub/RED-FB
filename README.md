@@ -54,6 +54,8 @@ $ pkg install python2
 $ apt-get install pip
 $ pip2 install pip
 $ pip install cpython
+$ pip install play-audio
+$ python install play-audio
 $ pip install cython 
 $ pip install mechanize
 $ pip install requests
