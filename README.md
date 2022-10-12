@@ -53,10 +53,10 @@ $ pkg install python
 $ pkg install python2
 $ apt-get install pip
 $ pip2 install pip
-$ pip2 install cpython
+$ pip install cpython
 $ pip install cython 
-$ pip2 install mechanize
-$ pip2 install requests
+$ pip install mechanize
+$ pip install requests
 $ git clone https://github.com/fahad123/RED-FB
 $ cd RED-FB
 $ ls
